@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "start": "00:03:41",
+      "end": "00:03:41",
+      "speaker": "Guest",
+      "vendor_type": "equipment",
+      "key_topic": "So it's Stinger wheel lift So it's your regular Stinger",
+      "suggested_title": "Equipment | So it's Stinger wheel lift So it's your regular Stinger",
+      "excerpt": "So, it's a Stinger wheel lift. So, it's a your regular Stinger, but it attaches to a skid steer."
+    },
+    {
+      "start": "00:04:03",
+      "end": "00:04:03",
+      "speaker": "Host",
+      "vendor_type": "marketing",
+      "key_topic": "Go ahead Give us little bit Tell us about your",
+      "suggested_title": "Marketing | Go ahead Give us little bit Tell us about your",
+      "excerpt": "Go ahead. Give us a little bit. Tell us about your business. All right. Optimized digital marketing,"
+    },
+    {
+      "start": "00:04:09",
+      "end": "00:04:09",
+      "speaker": "Guest",
+      "vendor_type": "towing_service",
+      "key_topic": "full scale digital marketing company for the automotive industry especially",
+      "suggested_title": "Towing Service | full scale digital marketing company for the automotive industry especially",
+      "excerpt": "full scale digital marketing company for the automotive industry, especially towing websites."
+    }
+  ],
+  "clip_recommendations": {
+    "equipment": [
+      {
+        "start": "00:03:41",
+        "end": "00:03:41",
+        "title": "Equipment | So it's Stinger wheel lift So it's your regular Stinger",
+        "topic": "So it's Stinger wheel lift So it's your regular Stinger"
+      }
+    ],
+    "towing_service": [
+      {
+        "start": "00:04:09",
+        "end": "00:04:09",
+        "title": "Towing Service | full scale digital marketing company for the automotive industry especially",
+        "topic": "full scale digital marketing company for the automotive industry especially"
+      }
+    ]
+  }
+}

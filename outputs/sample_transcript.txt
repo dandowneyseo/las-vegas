@@ -1,0 +1,6 @@
+[00:00:05] Host: Welcome everyone to the vendor deep dive from the expo floor.
+[00:00:18] Taco Truck Owner: Our menu has three signature dishes and a spicy drink combo.
+[00:00:32] Taco Truck Owner: The chef built this recipe from family traditions.
+[00:00:49] Jewelry Vendor: This product line is handcrafted and our pricing starts at 25 dollars.
+[00:01:10] SaaS Founder: Our platform integration with POS and API saves retailers time.
+[00:01:29] SaaS Founder: We automate inventory and offer analytics dashboards.
