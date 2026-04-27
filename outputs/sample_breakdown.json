@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "start": "00:00:05",
+      "end": "00:00:05",
+      "speaker": "Host",
+      "vendor_type": "general",
+      "key_topic": "Welcome everyone to the vendor deep dive from the expo",
+      "suggested_title": "General | Welcome everyone to the vendor deep dive from the expo",
+      "excerpt": "Welcome everyone to the vendor deep dive from the expo floor."
+    },
+    {
+      "start": "00:00:18",
+      "end": "00:00:32",
+      "speaker": "Taco Truck Owner",
+      "vendor_type": "general",
+      "key_topic": "Our menu has three signature dishes and spicy drink combo",
+      "suggested_title": "General | Our menu has three signature dishes and spicy drink combo",
+      "excerpt": "Our menu has three signature dishes and a spicy drink combo. The chef built this recipe from family traditions."
+    },
+    {
+      "start": "00:00:49",
+      "end": "00:00:49",
+      "speaker": "Jewelry Vendor",
+      "vendor_type": "general",
+      "key_topic": "This product line is handcrafted and our pricing starts at",
+      "suggested_title": "General | This product line is handcrafted and our pricing starts at",
+      "excerpt": "This product line is handcrafted and our pricing starts at 25 dollars."
+    },
+    {
+      "start": "00:01:10",
+      "end": "00:01:10",
+      "speaker": "SaaS Founder",
+      "vendor_type": "software",
+      "key_topic": "Our platform integration with POS and API saves retailers time",
+      "suggested_title": "Software | Our platform integration with POS and API saves retailers time",
+      "excerpt": "Our platform integration with POS and API saves retailers time."
+    },
+    {
+      "start": "00:01:29",
+      "end": "00:01:29",
+      "speaker": "SaaS Founder",
+      "vendor_type": "general",
+      "key_topic": "We automate inventory and offer analytics dashboards",
+      "suggested_title": "General | We automate inventory and offer analytics dashboards",
+      "excerpt": "We automate inventory and offer analytics dashboards."
+    }
+  ],
+  "clip_recommendations": {
+    "general": [
+      {
+        "start": "00:00:18",
+        "end": "00:00:32",
+        "title": "General | Our menu has three signature dishes and spicy drink combo",
+        "topic": "Our menu has three signature dishes and spicy drink combo"
+      },
+      {
+        "start": "00:00:49",
+        "end": "00:00:49",
+        "title": "General | This product line is handcrafted and our pricing starts at",
+        "topic": "This product line is handcrafted and our pricing starts at"
+      },
+      {
+        "start": "00:01:29",
+        "end": "00:01:29",
+        "title": "General | We automate inventory and offer analytics dashboards",
+        "topic": "We automate inventory and offer analytics dashboards"
+      }
+    ],
+    "software": [
+      {
+        "start": "00:01:10",
+        "end": "00:01:10",
+        "title": "Software | Our platform integration with POS and API saves retailers time",
+        "topic": "Our platform integration with POS and API saves retailers time"
+      }
+    ]
+  }
+}
